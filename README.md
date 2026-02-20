@@ -1,22 +1,23 @@
-##👋 Hi, I'm Herman Isayenka!
+# 👋 Hi there, I'm Herman!
 
-I'm an Engineering Student at York University. I specialize in computer vision, real-time simulations, data-driven applications, 
-cloud infrastructure, and AI integrated pipelines
+I'm a Software Engineering student at York University.
+I specialize in AI systems, real-time applications, and optimization.
 
+---
 
-My TECH STACK
-<!--
+## 🛠 My Tech Stack
 
-**herman888/herman888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+When I code, I rely on:
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 My GitHub Stats
+
+![Herman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
