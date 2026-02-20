@@ -18,6 +18,6 @@ When I code, I rely on:
 
 ## 📊 My GitHub Stats
 
-![Herman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Herman's GitHub stats](https://github-readme-stats.vercel.app/api?username=herman888&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=herman888&theme=tokyonight)
